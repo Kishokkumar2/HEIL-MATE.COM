@@ -1,0 +1,44 @@
+.a{
+    margin-left: 55%;
+}
+.b{
+   background-color:#1a73e8;
+    padding: 15px;
+   
+}
+.m{ 
+    
+    color: whitesmoke;
+    
+}
+.mm{
+    background-color: rgb(48, 127, 226);
+}
+.l{
+    color:white;
+}
+.ll{
+    height:700px;
+}
+.lll{
+    margin-left: 10%;
+}
+.llll{
+    font-size: 1rem;
+    border: none;
+    padding: 10px 12px;
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+}
+
+.h{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 20px;
+    margin-top: 100%;
+}
+main{
+    background-color:lightblue;
+}
