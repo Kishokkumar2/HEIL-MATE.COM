@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kishokkumar2/HEIL-MATE.COM/static/css/main.142cb00a.css",
+    "main.js": "/Kishokkumar2/HEIL-MATE.COM/static/js/main.3974ab6b.js",
+    "index.html": "/Kishokkumar2/HEIL-MATE.COM/index.html",
+    "main.142cb00a.css.map": "/Kishokkumar2/HEIL-MATE.COM/static/css/main.142cb00a.css.map",
+    "main.3974ab6b.js.map": "/Kishokkumar2/HEIL-MATE.COM/static/js/main.3974ab6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.142cb00a.css",
+    "static/js/main.3974ab6b.js"
+  ]
+}
